@@ -113,7 +113,7 @@ git remote add origin git@bitbucket.org:fdiecommerce/sozialbau.git
 # .gitignore erstellen/einfügen
 # evtl Submodule einbinden
 git add .								# alle Dateien Hinzufügen
-git push -f https://schorschi@bitbucket.org/fdiecommerce/sozialbau.git master
+git push -f github.com/irgendwas.git master
 ```
 
 #### Submodule einbinden
